@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Segment TensorRT batch=3 fix (#7952)
