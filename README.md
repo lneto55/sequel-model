@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+YAML reformat (#7669)
