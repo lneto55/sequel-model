@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Add PaddlePaddle Docs Integrations Page (#8858)
