@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Replace onnx2tf usage from CLI to Python (#8429)
