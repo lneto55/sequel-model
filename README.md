@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Model typehints Docker fix (#8306)
