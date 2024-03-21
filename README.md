@@ -1,1 +1,1 @@
-fix val each epoch
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
