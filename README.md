@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
