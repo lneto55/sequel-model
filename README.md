@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Replacing Images for torchscript.md (#8596)
