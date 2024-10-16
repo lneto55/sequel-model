@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
